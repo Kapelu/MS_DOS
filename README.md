@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Kapelu/MS-DOS/blob/main/.readmes/msdos-logo.png?raw=true">   
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Kapelu/MS_DOS/blob/main/.readmes/msdos-logo.png?raw=true">   
 
 # Código Fuente de MS-DOS v1.25, v2.0, v4.0
 
